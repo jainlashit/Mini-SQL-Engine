@@ -18,7 +18,7 @@ iv) select distinct col1, col2 from table_name;
 
 v)  select col1, col2 from table1, table2 where col1=10 and col2 = 20;
 
-Multiple and/AND & or/OR can be given in the query
+Single and/AND & or/OR can be given in the query
 
 vi) select col1, col2 from table1, table2 where table1.col=table2.
 
